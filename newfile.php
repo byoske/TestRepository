@@ -26,7 +26,7 @@ form dl dd{
      <dd><input type="text" name="id" size="50"></dd>
      <dt>パスワード</dt>
      <dd><input type="password" name="password" size="51"></dd><br>
-     <button type="submit">いそっち</button>
+     <button type="submit">いそっち2</button>
    </dl>
    </form>
  </body>
