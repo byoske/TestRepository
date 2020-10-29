@@ -19,14 +19,14 @@ form dl dd{
    </style>
  </head>
  <body>
-   <h1>イケメン2</h1>
+   <h1>てらたく</h1>
    <form  action="login.php" method="post">
    <dl>
      <dt>ユーザー名</dt>
      <dd><input type="text" name="id" size="50"></dd>
      <dt>パスワード</dt>
      <dd><input type="password" name="password" size="51"></dd><br>
-     <button type="submit">いそっち2</button>
+     <button type="submit">てらたく</button>
    </dl>
    </form>
  </body>
