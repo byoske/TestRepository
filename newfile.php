@@ -19,7 +19,7 @@ form dl dd{
    </style>
  </head>
  <body>
-   <h1>イケメン</h1>
+   <h1>イケメン2</h1>
    <form  action="login.php" method="post">
    <dl>
      <dt>ユーザー名</dt>
